@@ -1,2 +1,2 @@
 # CatPhotoApp
-Basic boilerplate exercise.s
+Basic boilerplate exercise.
